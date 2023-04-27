@@ -1,0 +1,26 @@
+This unit's objective: Understand how things connect to each other in IT
+
+Strategy
+Student inputs:
+Plan, how to achieve goals, priorities
+
+
+Teacher input
+Think about it in terms different levels.
+
+Top level - Corporate level which is the whole organisation
+Mid level - Business unit or department level
+Process level - Specific to an application, may be within a department or multi-department
+
+There will be overlaps
+
+Strategic analysis and Enterprise analysis sit at the top level
+BA sits in the mid level
+System analysis sits at process level
+
+
+Enterprise analysis - all about technology
+Enterprise analysis and enterprise architecture are linked
+Enterprise architecture looks at the solutions at a top level with the future in mind. They answer questions such as: what platform to use based on requirements, how will the solution perform in the future, etc.
+
+All big IT companies have IT governance - which means any changes from the process level will go up to Corporate level for approval
