@@ -1,1 +1,22 @@
+Business case
+
+one of the most fundamental parts is cost-benefit analysis
+other components in a business case:
+- how it aligns to the company objective
+- risks
+- scope
+- deliverables
+- stakeholder analysis is not necessary for delivering the business case / what you do need is the output from the consultation with stakeholders (stakeholder requirements)
+- benefits
+
+
+Business case is a static document - once it's approved it can not be changed
+
+
+-------------------------------
+-------------------------------
+-------------------------------
+Scope of work document - this is based on client requirement
+
+
 
